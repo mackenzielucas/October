@@ -88,9 +88,6 @@ nav a:active {
     color: #000;
 }
 
-body {
-
-}
 
 article {
 	width: 20em;
@@ -98,16 +95,12 @@ article {
     float: left;
 }
 
-footer {
-
-}
-
 footer ul li{
     list-style-type: none;
-    float: right;
+    float: left;
     width: 15em;
     text-align: center;
     background-color: #000;
     color: #fff;
-    padding: 10px;
+    padding: 5px;
 }
