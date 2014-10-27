@@ -1,0 +1,147 @@
+
+@font-face {
+	src: http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz;
+	font-family: ‘Metrophobic’, Arial, serif; 
+	font-weight: 400; 
+	color: #000;
+}
+
+#content-container
+{
+    float: left;
+    width: 1000px;
+    background: #fff;
+} 
+
+h1 h2 h3 h4 h5 h6{
+    background-color: #fff;
+}
+header img {
+	width: 200px;
+	float: right;
+}
+
+
+body
+{
+    margin: 0 auto;
+    width: 1000px;
+}
+aside
+{
+    float: left;
+    width: 160px;
+    padding: 20px 0;
+    margin: 0 20px;
+    display: inline;
+    background-color: #fff;
+}
+
+aside ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+aside ul li
+{
+    margin: 0 0 1em;
+    padding: 0;
+    list-style-type: none;
+}
+
+article
+
+{
+    float: left;
+    width: 600px;
+    padding: 20px 0;
+    margin: 0 0 0 0px;
+    
+    float: left;
+}
+
+article h2 { margin: 0; }
+
+aside
+{
+    float: right;
+    width: 250px;
+    padding: 20px 0;
+    margin: 50px 20px 0 0;
+    display: inline;
+}
+
+aside h3 { margin: 0; }
+
+
+header
+{
+    background: #fff;
+    padding: 20px;
+}
+
+header h1 { margin: 0; }
+
+nav
+{
+    float: left;
+    width: 1000px;
+    background: #000;
+}
+
+nav ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li
+{
+    list-style-type: none;
+    display: inline;
+}
+
+nav li a
+{
+    display: block;
+    float: left;
+    padding: 5px 10px;
+    color: #fff;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+}
+
+nav li a:hover { background: #ccc; }
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+section {
+    background: #ccc;
+}
+
+footer {
+    float: left;
+    background: #ccc;
+    text-align: right;
+    padding: 20px;
+    height: 1%;
+    width: 900px;
+}
+
+form{
+    padding-top: 20px;
+    background-color: #fff;
+}
+
+footer ul li{
+    list-style-type: none;
+    float: left;
+    width: 10em;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}
